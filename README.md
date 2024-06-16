@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **java**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **java and fronted**
+- 🌱 I’m currently learning **Frontend and Backend**
 
-- 💬 Ask me about **java,c,html**
+- 💬 Ask me about **java,c,html,Flutter**
 
 - 📫 How to reach me **sumithsbhatt@gmail.com**
 
